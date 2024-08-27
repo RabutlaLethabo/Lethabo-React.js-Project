@@ -6,7 +6,7 @@
 .pnp.js
 /sever-api/node_modules
 /sever-api/db.json
-/images/user.jpg
+srs/images
 
 # testing
 /coverage

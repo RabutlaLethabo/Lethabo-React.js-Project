@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "da5ef549-d5b0-49b9-bea9-dc0d13d979a6",
+      "name": "Hope Rabutla",
+      "email": "Hope@gmail.com",
+      "redirect": false
+    },
+    {
+      "id": "0e12ace7-8a37-43b8-a63c-99832d0f8d8e",
+      "name": "Martin Rabutla",
+      "email": "Martin@gmail.com",
+      "redirect": false
+    },
+    {
+      "id": "2c418639-63b7-4465-8ff1-0d1e13e1a0b3",
+      "name": "Kholofelo",
+      "email": "Kholo@gmail.com",
+      "redirect": false
+    },
+    {
+      "id": "71ee0561-bee5-4932-b7e3-ae4e14604f24",
+      "name": "Rato Rabutla",
+      "email": "Rato@Outlook.com",
+      "redirect": false
+    },
+    {
+      "id": "4480fa37-2564-4d26-a0b1-f5e2fd7a0ce5",
+      "name": "Lethabo",
+      "email": "Lethabo@gmail.com",
+      "redirect": false
+    }
+  ]
+}
